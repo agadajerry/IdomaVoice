@@ -49,7 +49,7 @@ public class IdomaVoiceHome extends AppCompatActivity {
 
         setContentView(R.layout.activity_idoma_voice_home);
         webView = (WebView) findViewById(R.id.webView);
-        swipe = (SwipeRefreshLayout) findViewById(R.id.swipLayout);
+        swipe = (SwipeRefreshLayout) findViewById(R.id.swipLayout1);
 
 
         //webview settings
