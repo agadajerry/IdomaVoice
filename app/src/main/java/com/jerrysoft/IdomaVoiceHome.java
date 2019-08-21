@@ -258,7 +258,7 @@ public class IdomaVoiceHome extends AppCompatActivity {
                     public void onClick(View v) {
                         if (clearCheck.isChecked() == true) {
                             webView.clearCache(true);
-                            Toast.makeText(IdomaVoiceHome.this, "Cache cleared", Toast.LENGTH_LONG).show();
+                            Toast.makeText(IdomaVoiceHome.this, "History cleared", Toast.LENGTH_LONG).show();
                             //  swipe.setRefreshing(true);
 
                         }
