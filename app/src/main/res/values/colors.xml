@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#851400</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColorBlack">#0E0E11</color>
+    <color name="whiteBackground">#FFFFFF</color>
+    <color name="idomaSetting">#285CBB</color>
+    <color name="idomaCardViewBackground">#AEB0B3</color>
+</resources>

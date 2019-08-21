@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IdomaVoice</string>
+    <string name="dev_name">App By jerrySoft</string>
+    <string name="dev_contact">08160332264</string>
+    <string name="enableChach">Enable  Cache</string>
+    <string name="nightMode">Night Mode</string>
+    <string name="clearCache">Delete History</string>
+    <string name="webSettings">Ok</string>
+</resources>
